@@ -18,7 +18,3 @@ According to a [Harvard Business Review](https://hbr.org/2023/01/has-progress-on
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sbokB75lEglcmYIGBG5wVrlxR4nyRQKG?usp=sharing)
     > Does the new landing page drive more customer sign ups? Using the t-test and conversion lift rate, we can make better marketing decisions.  
 
-## Contact
-* [LinkedIn](https://www.linkedin.com/in/jiwon5315/)
-* [Tableau Public](https://public.tableau.com/app/profile/jiwon1960/vizzes)
-* [Resume](https://docs.google.com/document/d/1G5xGOCuyR1HJl8-Tyijec2Nemn7eNcyVCAEOc5PIwDE/edit?usp=sharing)
